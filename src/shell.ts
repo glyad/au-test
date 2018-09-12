@@ -1,5 +1,6 @@
 import $ from 'jquery';
 import 'materialize-css';
+import PerfectScrollbar from 'perfect-scrollbar';
 
   
 
